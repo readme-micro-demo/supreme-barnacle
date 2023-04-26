@@ -2,10 +2,11 @@
   "openapi": "3.0.0",
   "info": {
     "version": "1.0.0",
-    "title": "Swagger Petstore",
+    "title": "Image Uploading Service",
     "license": {
       "name": "MIT"
-    }
+    },
+    "description": "Ex eiusmod esse minim magna voluptate sit culpa sint quis enim et. Velit ex excepteur nostrud esse veniam irure duis ullamco do occaecat in aliquip dolor."
   },
   "servers": [
     {
