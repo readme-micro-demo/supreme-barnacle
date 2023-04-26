@@ -2,11 +2,11 @@
   "openapi": "3.0.0",
   "info": {
     "version": "1.0.0",
-    "title": "Office Pet Identifier",
+    "title": "Office HQ Pet Identifier",
     "license": {
       "name": "MIT"
     },
-    "description": "Automatically updates our visitor list to include every four-legged friend (🐶 + 🐈) of Supreme Barnacle HQ who's in the office that day."
+    "description": "Automatically updates our visitor list to include every four-legged friend (🐶 + 🐈) of Supreme Barnacle HQ who's in the office that day. Don't forget — we always keep a selection of organic cat and dog treats at the front desk 🤗"
   },
   "servers": [
     {
