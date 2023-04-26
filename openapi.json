@@ -6,7 +6,7 @@
     "license": {
       "name": "MIT"
     },
-    "description": "Automatically tracks every dog and cat associated with a team member who's visiting the office."
+    "description": "Automatically updates our visitor list to include every four-legged friend (🐶 + 🐈) of Supreme Barnacle HQ who's in the office that day."
   },
   "servers": [
     {
