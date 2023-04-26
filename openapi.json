@@ -2,10 +2,11 @@
   "openapi": "3.0.0",
   "info": {
     "version": "1.0.0",
-    "title": "Swagger Petstore",
+    "title": "User Service",
     "license": {
       "name": "MIT"
-    }
+    },
+    "description": "Id esse nostrud nisi ex fugiat enim voluptate velit aliquip duis mollit irure aute aliqua."
   },
   "servers": [
     {
